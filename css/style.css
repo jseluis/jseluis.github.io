@@ -779,7 +779,7 @@ h6 {
 /*------------------------------------------------------------------------------------------*/
 
 #banner {
-    background-size: cover;
+    background-size: Auto;
 }
 
 #banner-content.row {
