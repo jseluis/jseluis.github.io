@@ -780,6 +780,7 @@ h6 {
 
 #banner {
     background-size: cover;
+    background-position: 100% 100%;
 }
 
 #banner-content.row {
