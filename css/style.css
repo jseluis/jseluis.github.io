@@ -799,6 +799,23 @@ h6 {
     margin-top: 30px;
 }
 
+.element {
+    background: #cacaca;
+}
+@media (min-width: 600px) {
+    .element {
+        background: #cacaca;
+    }
+}
+
+@media (min-width: 700px) {
+    .element {
+        background: url("../images/banner-images/banner-image-1.jpg") no-repeat center top;
+        background-size:cover;
+    }
+}
+
+
 /*------------------------------------------------------------------------------------------*/
 /* 5. Content Elements */
 /*------------------------------------------------------------------------------------------*/

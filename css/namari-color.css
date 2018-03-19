@@ -124,15 +124,8 @@ a:hover, #header.nav-solid nav a:hover {
 /* Banner Background and Text Colors */
 
 #banner {
-    
-    background: #cacaca;
-
-    @media (min-width: 700px) {
-        .element {
-            background: url("../images/banner-images/banner-image-1.jpg") no-repeat center top;
-            background-size:cover;
-        }
-    }
+    background: url("../images/banner-images/banner-image-1.jpg") no-repeat center top;
+    background-size:cover;
 }
 
 
