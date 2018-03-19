@@ -800,11 +800,11 @@ h6 {
 }
 
 .element {
-    background: #d6d6d6;
+    background: #cacaca;
 }
 @media (min-width: 600px) {
     .element {
-        background: #d6d6d6;
+        background: #cacaca;
     }
 }
 
