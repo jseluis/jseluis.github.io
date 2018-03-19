@@ -804,7 +804,8 @@ h6 {
 }
 @media (min-width: 600px) {
     .element {
-        background: #cacaca;
+        background: #fff;
+        background-size:cover;
     }
 }
 
